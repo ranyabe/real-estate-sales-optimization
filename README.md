@@ -1,5 +1,4 @@
-# Create a README.md file with placeholder for screenshot
-readme_content = """
+
 # 🏗️ Real Estate Sales Optimization using Operations Research (OR) & Python
 
 This project demonstrates how mathematical optimization (Operations Research) can improve real estate development decisions by optimizing the timing of unit sales to:
